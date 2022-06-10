@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.iutvalence.info.but.s2_01.jrava.main"},{"l":"fr.iutvalence.info.but.s2_01.jrava.mmi"},{"l":"fr.iutvalence.info.but.s2_01.jrava.model"},{"l":"fr.iutvalence.info.but.s2_01.jrava.storage"}];updateSearchResults();
